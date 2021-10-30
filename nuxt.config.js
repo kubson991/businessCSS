@@ -44,9 +44,15 @@ export default {
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
+    icon:false,
     manifest: {
       lang: 'en'
     }
   },
-
+  manifest: {
+    name: 'cssjob',
+    short_name: 'job',
+    lang: 'en',
+    display: 'standalone',
+  }
 }
