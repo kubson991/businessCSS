@@ -1,5 +1,5 @@
 {
-  "title": "businessCSS",
+  "title": "cssjob",
   "meta": [
     {
       "hid": "charset",
@@ -18,7 +18,7 @@
     {
       "hid": "apple-mobile-web-app-title",
       "name": "apple-mobile-web-app-title",
-      "content": "businessCSS"
+      "content": "cssjob"
     },
     {
       "hid": "og:type",
@@ -30,19 +30,19 @@
       "hid": "og:title",
       "name": "og:title",
       "property": "og:title",
-      "content": "businessCSS"
+      "content": "cssjob"
     },
     {
       "hid": "og:site_name",
       "name": "og:site_name",
       "property": "og:site_name",
-      "content": "businessCSS"
+      "content": "cssjob"
     }
   ],
   "link": [
     {
       "rel": "manifest",
-      "href": "/_nuxt/manifest.73704b8a.json",
+      "href": "/_nuxt/manifest.b2f54268.json",
       "hid": "manifest"
     }
   ],
